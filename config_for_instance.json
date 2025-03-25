@@ -1,0 +1,7 @@
+{
+    "availability_domain":"aCYE:EU-FRANKFURT-1-AD-1",
+    "compartment_id": "ocid1.compartment.oc1..aaaaaaaaphofnkbg7s7wwtamy2xqyg5fenlpdyhw5fgnncuzwaixenn65j2a",
+    "subnet_id": "ocid1.subnet.oc1.eu-frankfurt-1.aaaaaaaar67kvmcyibofarfamhc2drpxgcg357bkk64rveaj5y3eqtuga7qa",
+    "image_id": "ocid1.image.oc1.eu-frankfurt-1.aaaaaaaayv5ooieltgy2kxnbubiwi7q4gjtvan634uxnvs42ggovjnwt53rq",
+    "display_name": "TestInstance"
+}
