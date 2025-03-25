@@ -1,0 +1,41 @@
+{
+    "region": {
+        "phoenix": "PHX",
+        "ashburn": "IAD",
+        "mumbai": "BOM",
+        "frankfurt": "FRA",
+        "chicago": "ORD"
+    },
+    "tenancy": {
+        "prodapp": "PA",
+        "devapp": "DA",
+        "legalapp":"LA",
+        "externalprod": "EP",
+        "externalnonprod": "EN",
+        "internalprod": "IP",
+        "internalnonprod": "IN",
+        "peo": "PO",
+        "peappinternalprod": "AP",
+        "peocorpprod": "PC",
+        "oragit2": "OZ",
+        "oragit": "OG",
+        "engitdev": "ED",
+        "oragitd": "OD"
+    },
+    "app_provisioning_env":{
+        "prod": "PR",
+        "dr": "DR",
+        "uat": "UAT",
+        "stage": "STG",
+        "dev": "DEV"
+    },
+    "service": {
+        "shared services": "SS", 
+        "database": "DB", 
+        "midtier": "MT"
+    },
+    "operating_system": {
+        "linux": "LNX",
+        "windows": "WIN"
+    }
+}
